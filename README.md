@@ -2,7 +2,7 @@
 
 ## What is Probabilistic Computing, and how does it work? | by Joi Ito | Digital Architecture Lab | Medium
 
-[https://medium.com/digital-architecture-lab/what-is-probabilistic-computing-and-how-does-it-work-1efea7d780c9]()
+[[https://medium.com/digital-architecture-lab/what-is-probabilistic-computing-and-how-does-it-work-1efea7d780c9](https://medium.com/digital-architecture-lab/what-is-probabilistic-computing-and-how-does-it-work-1efea7d780c9)]()
 
 Published in Digital Architecture Lab
 Published on June 16, 2023
