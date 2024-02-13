@@ -54,7 +54,7 @@ Affiliation with Perdue University, USA
 
 ## Quantum Computer Comes Closer to Cracking RSA Encryption
 
-[[Quantum Computer Comes Closer to Cracking RSA Encryption(https://spectrum.ieee.org/encryptionbusting-quantum-computer-practices-factoring-in-scalable-fiveatom-experiment)]
+[[Quantum Computer Comes Closer to Cracking RSA Encryption](https://spectrum.ieee.org/encryptionbusting-quantum-computer-practices-factoring-in-scalable-fiveatom-experiment)]
 
 Journal ranking: 20.957
 
