@@ -2,7 +2,7 @@
 
 ## What is Probabilistic Computing, and how does it work? | by Joi Ito | Digital Architecture Lab | Medium
 
-[[https://medium.com/digital-architecture-lab/what-is-probabilistic-computing-and-how-does-it-work-1efea7d780c9](https://medium.com/digital-architecture-lab/what-is-probabilistic-computing-and-how-does-it-work-1efea7d780c9)]
+[[What is Probabilistic Computing, and how does it work? | by Joi Ito | Digital Architecture Lab | Medium](https://medium.com/digital-architecture-lab/what-is-probabilistic-computing-and-how-does-it-work-1efea7d780c9)]
 
 Published in Digital Architecture Lab
 
@@ -24,7 +24,7 @@ Affiliation with Digital Architecture Lab and MIT Prob Comp team
 
 ## Quantum cluster algorithm for data classification
 
-[[https://materialstheory.springeropen.com/articles/10.1186/s41313-021-00029-1#Abs1](https://materialstheory.springeropen.com/articles/10.1186/s41313-021-00029-1#Abs1)]
+[[Quantum cluster algorithm for data classification](https://materialstheory.springeropen.com/articles/10.1186/s41313-021-00029-1#Abs1)]
 
 Published in Journal of Materials Science: Materials Theory (2016)
 
@@ -50,3 +50,22 @@ Sabre Kais
     Number of publications on QC: in 100s
 
 Affiliation with Perdue University, USA
+
+
+## Quantum Computer Comes Closer to Cracking RSA Encryption
+
+[[Quantum Computer Comes Closer to Cracking RSA Encryption[(https://spectrum.ieee.org/encryptionbusting-quantum-computer-practices-factoring-in-scalable-fiveatom-experiment)]
+
+Journal ranking: 20.957
+
+Number of citations: 4
+
+Amy Nordrum
+
+Status: executive editor of operations for MIT Technology Review, 
+
+Number of publications: ~ 150
+
+Number of publications on QC: 2
+
+Affiliation with IEEE spectrum
