@@ -14,11 +14,11 @@ Number of citations: 11
 
 Joi Ito
 
-Status: Former Director; Former Professor of the Practice in Media Arts and Sciences
+        Status: Former Director; Former Professor of the Practice in Media Arts and Sciences
 
-Number of articles published: 9
+        Number of articles published: 9
 
-Number of articles published for probabilistic computing: 2
+        Number of articles published for probabilistic computing: 2
 
 Affiliation with Digital Architecture Lab and MIT Prob Comp team
 
@@ -62,10 +62,10 @@ Number of citations: 4
 
 Amy Nordrum
 
-Status: executive editor of operations for MIT Technology Review, 
+        Status: executive editor of operations for MIT Technology Review, 
 
-Number of publications: ~ 150
+        Number of publications: ~ 150
 
-Number of publications on QC: 2
+        Number of publications on QC: 2
 
 Affiliation with IEEE spectrum
